@@ -1,0 +1,81 @@
+:root {
+  --img-svg-width: 25%;
+}
+
+.container {
+  position: relative;
+  background-image: url("../../assets/images/background-mobile.png");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  margin: auto;
+  z-index: 1;
+}
+.img_svg {
+  position: absolute;
+  z-index: -1;
+}
+.div_img_svgLine {
+  position: absolute;
+  width: 100%;
+  height: 60%;
+  overflow: hidden;
+  top: 0;
+}
+.img_svgLine {
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+.img_svgCircle {
+  top: calc(var(--img-svg-width) / 4 * -1);
+  left: 10px;
+  width: var(--img-svg-width);
+}
+.img_svgCircle_right {
+  top: 60%;
+  right: calc(var(--img-svg-width) / 2 * -1);
+  width: var(--img-svg-width);
+}
+.img_svgLineTop {
+  top: 5%;
+  right: 0px;
+  width: var(--img-svg-width);
+}
+.img_svgLineBottom {
+  bottom: 0px;
+  left: 0px;
+  height: 20%;
+}
+@media (min-width: 768px) {
+  :root {
+    --img-svg-circle-width: 12%;
+  }
+  .img_svgLineBottom {
+    bottom: 0px;
+    left: 0px;
+    height: 45%;
+  }
+
+  .img_svgCircle {
+    top: calc(var(--img-svg-circle-width) / 1.2 * -1);
+    left: 10px;
+    width: var(--img-svg-circle-width);
+  }
+
+  .img_svgCircle_right {
+    top: 50%;
+    right: 26%;
+    width: var(--img-svg-circle-width);
+  }
+
+  .container {
+    position: relative;
+    background-image: url("../../assets/images/background-desktop.png");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    margin: auto;
+    z-index: 1;
+  }
+}
