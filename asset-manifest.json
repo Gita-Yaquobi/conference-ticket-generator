@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/conference-ticket-generator/static/css/main.4868b6b0.css",
+    "main.js": "/conference-ticket-generator/static/js/main.f8827905.js",
+    "static/media/background-desktop.png": "/conference-ticket-generator/static/media/background-desktop.aaca402b029d6080d68d.png",
+    "static/media/background-mobile.png": "/conference-ticket-generator/static/media/background-mobile.ff485619398faf341a96.png",
+    "static/media/inconsolata-latin-800.woff": "/conference-ticket-generator/static/media/inconsolata-latin-800.c31986329622741ac52b.woff",
+    "static/media/inconsolata-latin-600.woff": "/conference-ticket-generator/static/media/inconsolata-latin-600.6edcb0b350e171b1b842.woff",
+    "static/media/inconsolata-latin-500.woff": "/conference-ticket-generator/static/media/inconsolata-latin-500.c20be44f16d71e57b2b8.woff",
+    "static/media/inconsolata-latin-700.woff": "/conference-ticket-generator/static/media/inconsolata-latin-700.258e59b156360ef3bb0b.woff",
+    "static/media/inconsolata-latin-300.woff": "/conference-ticket-generator/static/media/inconsolata-latin-300.031e79974689e5a22b3b.woff",
+    "static/media/inconsolata-latin-200.woff": "/conference-ticket-generator/static/media/inconsolata-latin-200.a2bf4f61ef83603483ad.woff",
+    "static/media/inconsolata-latin-900.woff": "/conference-ticket-generator/static/media/inconsolata-latin-900.65944213cdc3e1743ec8.woff",
+    "static/media/inconsolata-latin-400.woff": "/conference-ticket-generator/static/media/inconsolata-latin-400.1b6a5f2020d85f45012c.woff",
+    "static/media/inconsolata-latin-800.woff2": "/conference-ticket-generator/static/media/inconsolata-latin-800.53ec24536533a6d98033.woff2",
+    "static/media/inconsolata-latin-500.woff2": "/conference-ticket-generator/static/media/inconsolata-latin-500.0f9a2c7c2be26c5ba113.woff2",
+    "static/media/inconsolata-latin-300.woff2": "/conference-ticket-generator/static/media/inconsolata-latin-300.b03fe7651a40463f3cdb.woff2",
+    "static/media/inconsolata-latin-600.woff2": "/conference-ticket-generator/static/media/inconsolata-latin-600.c5f991abc465c3441933.woff2",
+    "static/media/inconsolata-latin-700.woff2": "/conference-ticket-generator/static/media/inconsolata-latin-700.154e0208d322d5719e13.woff2",
+    "static/media/inconsolata-latin-200.woff2": "/conference-ticket-generator/static/media/inconsolata-latin-200.abca710b60e6b71243bb.woff2",
+    "static/media/inconsolata-latin-900.woff2": "/conference-ticket-generator/static/media/inconsolata-latin-900.c41e9bcb278fee5bebc3.woff2",
+    "static/media/inconsolata-latin-400.woff2": "/conference-ticket-generator/static/media/inconsolata-latin-400.5defbb9e7946394e7808.woff2",
+    "static/media/logo-full.svg": "/conference-ticket-generator/static/media/logo-full.6d04bee0278c1c56ac6fb2f5700b48a2.svg",
+    "static/media/pattern-lines.svg": "/conference-ticket-generator/static/media/pattern-lines.e90ac37869c36f4a4eab3575d3bebac5.svg",
+    "static/media/pattern-ticket.svg": "/conference-ticket-generator/static/media/pattern-ticket.7cee01f64f054b6ee64df56746444f9f.svg",
+    "static/media/pattern-squiggly-line-top.svg": "/conference-ticket-generator/static/media/pattern-squiggly-line-top.39ecf486aeda97306f567eaec64b1ca0.svg",
+    "static/media/pattern-squiggly-line-bottom-desktop.svg": "/conference-ticket-generator/static/media/pattern-squiggly-line-bottom-desktop.02c2143a87694e5503a46bf76156801d.svg",
+    "static/media/icon-upload.svg": "/conference-ticket-generator/static/media/icon-upload.860d7f0ca71820579c142f900d7b81db.svg",
+    "static/media/icon-github.svg": "/conference-ticket-generator/static/media/icon-github.9c5bd38d8a869f2c804e22b7022d5b11.svg",
+    "index.html": "/conference-ticket-generator/index.html",
+    "static/media/icon-info.svg": "/conference-ticket-generator/static/media/icon-info.5bada740663f3f425dfef7a702924cfb.svg",
+    "static/media/pattern-circle.svg": "/conference-ticket-generator/static/media/pattern-circle.026c51ac73da028e56463af7c095e14b.svg",
+    "main.4868b6b0.css.map": "/conference-ticket-generator/static/css/main.4868b6b0.css.map",
+    "main.f8827905.js.map": "/conference-ticket-generator/static/js/main.f8827905.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4868b6b0.css",
+    "static/js/main.f8827905.js"
+  ]
+}
